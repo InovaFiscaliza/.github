@@ -1,10 +1,10 @@
 ## Hello There 👋
 
-> 🙋‍♀️ We are a (very) short group of knowledge workers at ANATEL - Brazil who usually go the extra mile ( or ten ) to make the collective work of our peers efficient, aligned with the best practices and ( hopefully! ) more meaningful and enjoyable.
+> 🙋‍♀️ We are a (very) small group of knowledge workers at ANATEL - Brazil who usually go the extra mile ( or ten ) to make the collective work of our peers more efficient, aligned with the best practices and ( hopefully! ) more meaningful and enjoyable.
 
 🌈 Guidelines of our work:
 
-- Carrying out research, development and innovation activities for the supervision of telecommunications and broadcasting services;
+- Carrying out research, development and innovation in tools used by Anatel field teams dedicated to the regulatory enforcement of  telecommunications and broadcasting services;
 
 - Improve, consolidate and disseminate the methodologies used for inspection;
 
