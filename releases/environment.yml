@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11.*
-  - python-redmine
+  - python-redmine=2.4.0
   - fastcore
   - python-dotenv
   - unidecode
