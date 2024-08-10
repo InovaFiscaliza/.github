@@ -10,4 +10,4 @@ dependencies:
   - pip
   - pip:
       - fiscaliza>=1.0.0
-prefix: $env:USERPROFILE\AppData\Roaming\Anatel\apps
+prefix: $env:USERPROFILE\AppData\Roaming\Anatel\apps\fiscaliza
