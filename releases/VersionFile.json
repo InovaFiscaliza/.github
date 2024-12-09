@@ -3,9 +3,13 @@
         "Version": "1.83",
         "ReleaseDate": "22/11/2024"
     },
+    "appAnaliseV2": {
+        "Version": "1.67",
+        "ReleaseDate": "10/07/2024"
+    },
     "appColeta": {
-        "Version": "1.12",
-        "ReleaseDate": "30/01/2024"
+        "Version": "1.60",
+        "ReleaseDate": "09/12/2024"
     },
     "appColetaV2": {
         "Version": "1.56",
