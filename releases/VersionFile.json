@@ -15,9 +15,9 @@
         "Version": "1.56",
         "ReleaseDate": "25/09/2024"
     },
-    "RNI": {
-        "Version": "0.10",
-        "ReleaseDate": "13/12/2024"
+    "monitorRNI": {
+        "Version": "0.20",
+        "ReleaseDate": "04/01/2025"
     },
     "SCH": {
         "Version": "0.90",
