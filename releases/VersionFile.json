@@ -3,17 +3,9 @@
         "Version": "1.87.5",
         "ReleaseDate": "14/05/2025"
     },
-    "appAnaliseV2": {
-        "Version": "1.67",
-        "ReleaseDate": "10/07/2024"
-    },
     "appColeta": {
         "Version": "1.61",
         "ReleaseDate": "28/02/2025"
-    },
-    "appColetaV2": {
-        "Version": "1.56",
-        "ReleaseDate": "25/09/2024"
     },
     "monitorRNI": {
         "Version": "0.63.1",
@@ -30,5 +22,9 @@
     "rfpye": {
         "Version": "0.2.3",
         "ReleaseDate": "03/11/2021"
+    },
+    "rfPreview": {
+        "Version": "0.01.0",
+        "ReleaseDate": "15/05/2025"
     }
 }
