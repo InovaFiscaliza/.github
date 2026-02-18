@@ -8,28 +8,16 @@
         "ReleaseDate": "07/11/2025"
     },
     "monitorRNI": {
-        "Version": "1.01.2",
-        "ReleaseDate": "10/11/2025"
+        "Version": "1.10.0",
+        "ReleaseDate": "14/02/2026"
     },
     "monitorSPED": {
         "Version": "beta_2.02.10",
         "ReleaseDate": "10/02/2026"
     },
     "SCH": {
-        "Version": "1.22.0",
-        "ReleaseDate": "10/02/2026"
-    },
-    "fiscaliza": {
-        "Version": "1.0.2",
-        "ReleaseDate": "27/02/2023"
-    },
-    "rfpye": {
-        "Version": "0.2.3",
-        "ReleaseDate": "03/11/2021"
-    },
-    "rfPreview": {
-        "Version": "0.01.0",
-        "ReleaseDate": "15/05/2025"
+        "Version": "1.23.0",
+        "ReleaseDate": "13/02/2026"
     },
     "regulatron": {
         "Version": "0.9.12",
